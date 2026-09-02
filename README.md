@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Karaditya!
+# 👋 Hey there, I'm Aditya Kar!
 
 Welcome to my GitHub profile! I'm a **passionate developer** on a journey to master web development and emerging technologies. Currently exploring the vast world of coding and building cool projects that solve real problems.
 
@@ -54,7 +54,7 @@ Check out my repositories to see what I'm building! Each project is a step forwa
 
 Let's connect and grow together! Feel free to reach out:
 
-- 📧 **Email:** [Your Email Here]
+- 📧 **Email:** 
 - 💼 **LinkedIn:** [Your LinkedIn URL]
 - 🌍 **Portfolio:** [Your Portfolio URL]
 - 🐦 **Twitter:** [Your Twitter Handle]
@@ -71,6 +71,6 @@ Let's connect and grow together! Feel free to reach out:
 
 **⭐ If you find my projects interesting, don't forget to star them! It motivates me to keep building amazing things.**
 
-**Made with ❤️ by Karaditya**
+**Made with ❤️ by Aditya Kar**
 
 </div>
